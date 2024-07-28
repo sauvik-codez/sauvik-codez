@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sauvik
-- 👀 I’m interested in frontend development 
+- 👋 Hi, I’m SAUVIK
+- 👀 I’m interested in always learning something new
 - 🌱 I’m currently building up my basics about frontend development
 - 📫 You can connect with me through mail => sauvik.org07@gmail.com
 - 😄 Pronouns: he/him
