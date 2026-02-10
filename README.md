@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on data science and ML<br>🤝 I’m looking for help with better understandings and internships<br>🌱 I’m currently learning ML and Deep Learning<br>⚡ Fun fact: I sometimes write stories
+🔭 I’m currently a student<br>🌱 I’m currently learning ML and Deep Learning<br>👯 I’m looking to collaborate on Data Science and ML<br>🤝 I’m looking for help with better Internships<br>⚡ Fun fact: I sometimes write stories
 
 
 ## 🌐 Socials:
